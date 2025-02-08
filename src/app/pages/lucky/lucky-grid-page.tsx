@@ -57,7 +57,7 @@ export function LuckyGridPage({handleRefresh}) {
                 x: 2,
                 y: 2,
                 fonts: [{
-                    text: data[4].isAwardUnlock ? data[4].awardTitle : '再抽奖' + data[4].waitUnLockCount + '次解锁',
+                    text: data[4].isAwardUnlock ? data[4].awardTitle : '再抽奖' + data[4].waitUnlockCount + '次解锁',
                     top: '80%',
                     fontSize: '12px',
                     fontWeight: '800'
@@ -73,7 +73,7 @@ export function LuckyGridPage({handleRefresh}) {
                 x: 1,
                 y: 2,
                 fonts: [{
-                    text: data[5].isAwardUnlock ? data[5].awardTitle : '再抽奖' + data[5].waitUnLockCount + '次解锁',
+                    text: data[5].isAwardUnlock ? data[5].awardTitle : '再抽奖' + data[5].waitUnlockCount + '次解锁',
                     top: '80%',
                     fontSize: '12px',
                     fontWeight: '800'
@@ -89,7 +89,7 @@ export function LuckyGridPage({handleRefresh}) {
                 x: 0,
                 y: 2,
                 fonts: [{
-                    text: data[6].isAwardUnlock ? data[6].awardTitle : '再抽奖' + data[6].waitUnLockCount + '次解锁',
+                    text: data[6].isAwardUnlock ? data[6].awardTitle : '再抽奖' + data[6].waitUnlockCount + '次解锁',
                     top: '80%',
                     fontSize: '12px',
                     fontWeight: '800'
